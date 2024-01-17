@@ -11,4 +11,3 @@ function getListStudentIds() {
 }
 
 getListStudentIds();
-console.log(getListStudentIds);
